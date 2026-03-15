@@ -1,6 +1,6 @@
 # Hello! I'm Jinisha
 
-I'm passionate about full-stack development and building user-centric applications that solve real problems. Currently pursuing my Master's in Computer Applications at Christ University, Bengaluru, while exploring Python for data analysis and automation. I believe in writing clean code and creating seamless digital experiences that make a difference.
+I'm passionate about frontend development and building user-centric applications that solve real problems. Currently pursuing my Master's in Computer Applications at Christ University, Bengaluru, while exploring Python for data analysis and automation. I believe in writing clean code and creating seamless digital experiences that make a difference.
 
 ---
 ## Skills
